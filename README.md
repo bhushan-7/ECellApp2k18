@@ -1,10 +1,7 @@
 # ECellApp2k18
 Official repo of E-Cell Android application made in 2k18.
 
-An android application for a complete guide to The Entrepreneurship Cell , NIT Raipur.
-This app contains complete detail about events , sponsors , moto and vision of the committee .
-This app also contain option for communicating with the E-cell committee and most importantly
-an online quiz about Entrapreneurship.
+An android application for a complete guide to The Entrepreneurship Cell, NIT Raipur. This app contains complete detail about events, sponsors, moto, and vision of the committee. This app also contains an option for communicating with the E-cell committee and most importantly an online quiz about Entrepreneurship.
 
 Homepage consists of smooth horizontal scrollable screen which can be swiped upaward for opening particular fragments 
 
